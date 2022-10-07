@@ -1,0 +1,9 @@
+body {
+    background-color: indigo;
+}
+h1{
+    text-align: center; color: yellow;
+} 
+p{
+    text-align: center; color: rgba(255, 255, 0, 0.548);
+}
